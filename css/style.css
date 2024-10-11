@@ -39,7 +39,7 @@ p{
     ar galima vh? Palikau vh, kad matyciau vaizda, 
     nes jei height nurodau % vartotojo sasaja nesigauna per
     visa puslapio auksti*/
-    width: 150vh;
+    width: 60vw;
     height: 100vh;
     
     /* Visa konteineri pavercia flexu, 
